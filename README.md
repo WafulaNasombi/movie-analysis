@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Movie Industry Analysis
 
 ## Overview
