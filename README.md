@@ -1,5 +1,4 @@
 
-======
 # Movie Industry Analysis
 
 ## Overview
