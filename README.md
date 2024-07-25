@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Industry Analysis
 
 ## Overview
@@ -56,3 +57,6 @@ The data for this analysis was sourced from IMDb and Box Office Mojo. These plat
 
 - By leveraging these insights, the company can make data-driven decisions about movie production, optimizing their chances of success in the movie industry.
 
+=======
+# movie-analysis
+>>>>>>> 55528f03fa01973dbe1da4a55dd61283cb1fbbd9
