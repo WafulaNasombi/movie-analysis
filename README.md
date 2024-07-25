@@ -34,26 +34,26 @@ The data for this analysis was sourced from IMDb and Box Office Mojo. These plat
    - total_gross: The total box office gross revenue (domestic + foreign).
 
 ## Visualizations
-1. Total Box office revenue by Genre
+**1. Total Box office revenue by Genre**
 - This bar chart shows the total box office revenue for each genre, highlighting the most profitable genres.
 
 ![alt text](images/image-1.png)
 
-2. Average Rating by Genre for the top 30 Genres
+**2. Average Rating by Genre for the top 30 Genres**
 - This line plot displays the distribution of average IMDb ratings for each genre, providing insights into audience satisfaction across different genres.
 
 ![alt text](images/image-2.png)
 
-3. Revenue vs Ratings by Genre
+**3. Revenue vs Ratings by Genre**
 - This scatter plot visualizes the relationship between IMDb ratings and total box office revenue, helping to identify if higher-rated movies tend to generate more revenue.
 
 ![alt text](images/image-3.png)
 
 ## Conclusions
 ### Summary of Conclusions
-1. High Revenue-Generating Genres: Genres such as Adventure, Sci-Fi, and Fantasy consistently generate high box office revenues and have high audience ratings. These genres should be prioritized for production to maximize profitability.
-2. Optimal Budget Allocation: The relationship between production budgets, box office revenues, and IMDb ratings suggests that higher budgets should be allocated to genres with proven success, while niche genres can be explored with lower budgets.
-3. Strategic Release Timing: Analysis of box office trends over time indicates that summer (June to August) and holiday seasons (November to December) are the best times to release major films, as these periods see higher audience turnout and revenue.
+1. **High Revenue-Generating Genres:** Genres such as Adventure, Sci-Fi, and Fantasy consistently generate high box office revenues and have high audience ratings. These genres should be prioritized for production to maximize profitability.
+2. **Optimal Budget Allocation:** The relationship between production budgets, box office revenues, and IMDb ratings suggests that higher budgets should be allocated to genres with proven success, while niche genres can be explored with lower budgets.
+3. **Strategic Release Timing:** Analysis of box office trends over time indicates that summer (June to August) and holiday seasons (November to December) are the best times to release major films, as these periods see higher audience turnout and revenue.
 
 - By leveraging these insights, the company can make data-driven decisions about movie production, optimizing their chances of success in the movie industry.
 
