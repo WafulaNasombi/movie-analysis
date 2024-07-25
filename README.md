@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Movie Industry Analysis
 
 ## Overview
@@ -37,17 +36,17 @@ The data for this analysis was sourced from IMDb and Box Office Mojo. These plat
 1. Total Box office revenue by Genre
 - This bar chart shows the total box office revenue for each genre, highlighting the most profitable genres.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 2. Average Rating by Genre for the top 30 Genres
 - This line plot displays the distribution of average IMDb ratings for each genre, providing insights into audience satisfaction across different genres.
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 3. Revenue vs Ratings by Genre
 - This scatter plot visualizes the relationship between IMDb ratings and total box office revenue, helping to identify if higher-rated movies tend to generate more revenue.
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ## Conclusions
 ### Summary of Conclusions
@@ -58,5 +57,4 @@ The data for this analysis was sourced from IMDb and Box Office Mojo. These plat
 - By leveraging these insights, the company can make data-driven decisions about movie production, optimizing their chances of success in the movie industry.
 
 =======
-# movie-analysis
->>>>>>> 55528f03fa01973dbe1da4a55dd61283cb1fbbd9
+
