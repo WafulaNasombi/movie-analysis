@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> a1568623a32c844139eb2839fc3dcc3e30e816ee
 # Movie Industry Analysis
 
 ## Overview
