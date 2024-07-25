@@ -57,5 +57,5 @@ The data for this analysis was sourced from IMDb and Box Office Mojo. These plat
 
 - By leveraging these insights, the company can make data-driven decisions about movie production, optimizing their chances of success in the movie industry.
 
-=======
+
 
