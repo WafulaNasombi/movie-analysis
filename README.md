@@ -10,7 +10,7 @@ This project aims to explore the movie industry and provide actionable insights 
 
 **2.Data Analysts and Researchers:** tasked with providing insights and analysis to inform strategic decisions regarding genre selection, budget allocation, and release timing.
 
-**3.Investors and Financial Backers:**those who provide the capital necessary for producing movies and expect a return on their investment.
+**3.Investors and Financial Backers:** those who provide the capital necessary for producing movies and expect a return on their investment.
 
 **4.Chief Executive Office(CEO):** Provides overall vision and direction for the company's new venture into movie production. 
 
@@ -49,15 +49,15 @@ The data for this analysis was sourced from IMDb and Box Office Mojo. These plat
 
 ![alt text](images/image-1.png)
 
-**2. Average Rating by Genre for the top 30 Genres**
-- This line plot displays the distribution of average IMDb ratings for each genre, providing insights into audience satisfaction across different genres.
+**2. Average Rating by Genre for the top 20 genres**
+- This bar chart displays the distribution of weighted average IMDb ratings for the top 20 genres, providing insights into audience satisfaction across different genres.
 
-![alt text](images/image-2.png)
+![alt text](images/weighted%20average.png)
 
-**3. Revenue vs Ratings by Genre**
-- This scatter plot visualizes the relationship between IMDb ratings and total box office revenue, helping to identify if higher-rated movies tend to generate more revenue.
+**3. Number of Votes VS Total Gross of the Genres**
+- This scatter plot visualizes the relationship between IMDb number of votes and total box office revenue, helping to identify if movies with higher number of votes tend to generate more revenue.
 
-![alt text](images/image-3.png)
+![alt text](images/number%20of%20votes.png)
 
 ## Conclusions
 ### Summary of Conclusions
