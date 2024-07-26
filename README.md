@@ -10,7 +10,7 @@ This project aims to explore the movie industry and provide actionable insights 
 
 **2.Data Analysts and Researchers:** tasked with providing insights and analysis to inform strategic decisions regarding genre selection, budget allocation, and release timing.
 
-**3.Investors and Financial Backers:**those who provide the capital necessary for producing movies and expect a return on their investment.
+**3.Investors and Financial Backers:** those who provide the capital necessary for producing movies and expect a return on their investment.
 
 **4.Chief Executive Office(CEO):** Provides overall vision and direction for the company's new venture into movie production. 
 
