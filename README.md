@@ -61,14 +61,6 @@ The data for this analysis was sourced from IMDb and Box Office Mojo. These plat
 
 ## Conclusions
 ### Summary of Conclusions
-<<<<<<< HEAD
-**1. High Revenue-Generating Genres:** Genres such as Adventure, Sci-Fi, and Fantasy consistently generate high box office revenues and have high audience ratings. These genres should be prioritized for production to maximize profitability.
-**2. Optimal Budget Allocation:** The relationship between production budgets, box office revenues, and IMDb ratings suggests that higher budgets should be allocated to genres with proven success, while niche genres can be explored with lower budgets.
-**3. Strategic Release Timing:** Analysis of box office trends over time indicates that summer (June to August) and holiday seasons (November to December) are the best times to release major films, as these periods see higher audience turnout and revenue.
-
-- By leveraging these insights, the company can make data-driven decisions about movie production, optimizing their chances of success in the movie industry.
-
-=======
 1. **High Revenue-Generating Genres:** Genres such as Adventure, Sci-Fi, and Fantasy consistently generate high box office revenues and have high audience ratings. These genres should be prioritized for production to maximize profitability.
 2. **Optimal Budget Allocation:** The relationship between production budgets, box office revenues, and IMDb ratings suggests that higher budgets should be allocated to genres with proven success, while niche genres can be explored with lower budgets.
 3. **Strategic Release Timing:** Analysis of box office trends over time indicates that summer (June to August) and holiday seasons (November to December) are the best times to release major films, as these periods see higher audience turnout and revenue.
@@ -77,4 +69,3 @@ The data for this analysis was sourced from IMDb and Box Office Mojo. These plat
 
 
 
->>>>>>> ce84dfa1eb66dec34bc03026bc2e2bc3b52dadac
